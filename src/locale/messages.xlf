@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en-US">
+  <file id="ngi18n" original="ng.template">
+    <unit id="5078016957909331967">
+      <segment>
+        <source>My name is <ph id="0" equiv="INTERPOLATION" disp="&quot;\uFFFD0\uFFFD&quot;"/></source>
+      </segment>
+    </unit>
+  </file>
+</xliff>
