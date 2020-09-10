@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "scripts": {
     "i18n": "ng xi18n --format=xlf2 --output-path src/locale --ivy",
-    "i18n1": "ng xi18n --format=xlf --output-path src/locale --ivy --outFile=messages12.xlf",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
